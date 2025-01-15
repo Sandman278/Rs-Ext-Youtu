@@ -1,21 +1,15 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/133284637?s=66&v=4"></p>
+YouTube: Update Version 19.44.39, Update Patches (add some feat and fix some bugs)
 
-<h3 align="center">Hola, I'm Juno Bủh 🎭</h3>
+YT-Music: Update Version 07.25.53, Update Patches (add some feat and fix some bugs)
 
----
- 
-<h4 align="left">🚀 ReVanced Builder</h4>
+Google Photos: Update Version 07.12, Change App Name => "Gallery's"
 
-|       🥗 YouTube *No Ads*       |      🥙 YT-Music *No Ads*      |      🌭 Google Photos *Unlimited Backup*      |
-| :-----------------------------: | :-----------------------------: | :--------------------------------------------: |
-| Không Có Quảng Cáo, Ẩn Những Thứ Không Mong Muốn, Tuỳ Biến Giao Diện | Không Có Quảng Cáo, Ẩn Những Thứ Không Mong Muốn, Tuỳ Biến Giao Diện | Sao Lưu Ảnh & Video Chất Lượng Gốc Không Giới Hạn Dung Lượng Lưu Trữ |
+🥗 YouTube NoAds	🥙 YT-Music NoAds	🌭 Google Photos Unlimited
+Download	Download	Download
+Cài GmsCore trước khi cài App Mod: =>GmsCore
+📜 Notes
 
-<h4 align="right">Build By Juno Bủh 🍤</h4>
+Arm64-v8a Only
 
----
+Telegram Contact: @PhuScam
 
-***📜 Notes***
-
-- *Arm64-v8a Only*
-
-- *Telegram Contact: [@PhuScam](https://t.me/PhuScam)*
